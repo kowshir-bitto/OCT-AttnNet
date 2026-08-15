@@ -4,6 +4,14 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
 
+<p align="center">
+  <img src="proposed_model.png" alt="Proposed OCT-AttnNet Model Architecture" width="850">
+</p>
+
+<p align="center">
+  <b>Figure: Proposed architecture of the OCT-AttnNet framework.</b>
+</p>
+
 **OCT-AttnNet** is a PyTorch-based deep learning project for **Optical Coherence Tomography (OCT) image classification**. It combines transfer learning with attention mechanisms and explainable AI (XAI) methods to support robust and interpretable image classification experiments.
 
 The repository includes baseline CNN architectures, an attention-enhanced **InceptionV3 + BAM + ECA** model, preprocessing utilities, class-balancing augmentation, model evaluation, and visual explanation tools.
