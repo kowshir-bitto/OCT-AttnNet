@@ -339,7 +339,7 @@ This repository is designed for experiments involving:
 
 ## License
 
-This repository is currently distributed under the **BSD 3-Clause License**.
+This repository is currently distributed under the **MIT**.
 
 See the [LICENSE](LICENSE) file for details.
 
@@ -347,4 +347,6 @@ See the [LICENSE](LICENSE) file for details.
 
 **Abu Kowshir Bitto**
 
-GitHub: [@kowshir-bitto](https://github.com/kowshir-bitto)
+- GitHub: [@kowshir-bitto](https://github.com/kowshir-bitto)
+- Website: [kowshirbitto.me](http://kowshirbitto.me/)
+- Google Scholar: [Abu Kowshir Bitto](https://scholar.google.com/citations?hl=en&user=AO0dWsgAAAAJ&view_op=list_works&gmla=AJ1KiT30Ms5pY2DUl6pfWl4cwjlBOwygW_3wawpWiD_769YBbLX8_0rqv4MiIf05GjDe6xY81ApN7Gy1DfwYJCZu)
